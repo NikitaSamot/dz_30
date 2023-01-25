@@ -28,6 +28,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'IceCream',
     'Person',
+    'New_app_3',
+    
 ]
 
 MIDDLEWARE = [

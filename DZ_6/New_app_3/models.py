@@ -1,4 +1,7 @@
 from django.db import models
+
+# Create your models here.
+from django.db import models
 from django.core.exceptions import ValidationError
 
 def validate_age (age):
